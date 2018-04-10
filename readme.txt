@@ -6,4 +6,4 @@ master branch create~
 dev branch created~
 Edit dev branch~
 edit MrXue branch~
-
+git has edit thing not commit.
