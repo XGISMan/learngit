@@ -7,4 +7,4 @@ dev branch created~
 Edit dev branch~
 edit MrXue branch~
 complete bug 101~
-
+git has edit thing not commit.
